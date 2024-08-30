@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\bin\Debug\net8.0\MaxValue.exe
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\bin\Debug\net8.0\MaxValue.deps.json
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\bin\Debug\net8.0\MaxValue.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\bin\Debug\net8.0\MaxValue.dll
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\bin\Debug\net8.0\MaxValue.pdb
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\MaxValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\MaxValue.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\MaxValue.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\MaxValue.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\MaxValue.dll
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\refint\MaxValue.dll
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\MaxValue.pdb
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\MaxValue.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Mang2Chieu\MaxValue\obj\Debug\net8.0\ref\MaxValue.dll
